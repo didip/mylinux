@@ -16,9 +16,9 @@ Just fork this repo and add you own stuff.
 
 ## Prerequisites
 
-* Install Virtualbox
+* Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 
-* Install Vagrant
+* Install [Vagrant](https://www.vagrantup.com/downloads.html)
 
 
 ## Install Instructions
